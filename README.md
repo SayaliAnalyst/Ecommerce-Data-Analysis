@@ -261,4 +261,3 @@ SELECT
 
 ---
 
-👉 Full SQL analysis is here. Recruiters & hiring managers: This is how I turn **raw data into business impact**.
